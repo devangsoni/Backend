@@ -4,3 +4,5 @@ Steps for setup backend
 2. cd backend
 3. npm install
 4. npm start
+
+For Api request and response please import provided postman collection.
